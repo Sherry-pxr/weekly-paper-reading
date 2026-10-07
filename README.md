@@ -6,8 +6,8 @@
 
 | 日期 | 主讲人 | 论文名称 | 论文 |
 | --- | --- | --- | --- |
-| 2026-10-18 | 廖焕宏 | PrivTI: Efficient End-to-End Privacy-Preserving Inference for Transformer-based Models in MLaaS | [查看论文](<papers/2026-10-18/PrivTI_Efficient_End-to-End_Privacy-Preserving_Inference_for_Transformer-based_Models_in_MLaaS-TSC26.pdf>) |
-| 2026-10-18 | 彭玺如 | An Efficient Privacy-Preserving Transformer Inference Scheme for Cloud-based Intelligent Decision-Making in AIoT | [查看论文](<papers/2026-10-18/An efficient privacy-preserving transformer inference scheme for cloud-based intelligent decision-making in AIoT.pdf>) |
+| 2026-10-25 | 廖焕宏 | PrivTI: Efficient End-to-End Privacy-Preserving Inference for Transformer-based Models in MLaaS | [查看论文](<papers/2026-10-18/PrivTI_Efficient_End-to-End_Privacy-Preserving_Inference_for_Transformer-based_Models_in_MLaaS-TSC26.pdf>) |
+| 2026-10-25 | 彭玺如 | An Efficient Privacy-Preserving Transformer Inference Scheme for Cloud-based Intelligent Decision-Making in AIoT | [查看论文](<papers/2026-10-18/An efficient privacy-preserving transformer inference scheme for cloud-based intelligent decision-making in AIoT.pdf>) |
 
 ## 论文目录
 
@@ -15,6 +15,6 @@
 
 ```text
 papers/
-├── 2026-10-18/
+├── 2026-10-25/
 │   ├── PrivTI_Efficient_End-to-End_Privacy-Preserving_Inference_for_Transformer-based_Models_in_MLaaS-ISC26.pdf
 │   └── An efficient privacy-preserving transformer inference scheme for cloud-based intelligent decision-making in AIoT.pdf
