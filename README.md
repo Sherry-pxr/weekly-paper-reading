@@ -9,7 +9,7 @@
 | 2026-10-25 | 廖焕宏 | PrivTI: Efficient End-to-End Privacy-Preserving Inference for Transformer-based Models in MLaaS | [查看论文](<papers/2026-10-18/PrivTI_Efficient_End-to-End_Privacy-Preserving_Inference_for_Transformer-based_Models_in_MLaaS-TSC26.pdf>) |
 | 2026-10-25 | 彭玺如 | An Efficient Privacy-Preserving Transformer Inference Scheme for Cloud-based Intelligent Decision-Making in AIoT | [查看论文](<papers/2026-10-18/An efficient privacy-preserving transformer inference scheme for cloud-based intelligent decision-making in AIoT.pdf>) |
 | 2026-11-8 | 陈骞 | CryptDNN_A_Fast_Privacy-Preserving_Deep_Neural_N | [查看论文](https://github.com/Sherry-pxr/weekly-paper-reading/blob/main/papers/2026-10-25/CryptDNN_A_Fast_Privacy-Preserving_Deep_Neural_N.pdf) |
-| 2026-11-8 | 封谟璨 | SecDV_A_Lightweight_Secure_Deep_Neural_Network_Inference_Ser | [查看论文](<papers/2026-10-18/An efficient privacy-preserving transformer inference scheme for cloud-based intelligent decision-making in AIoT.pdf>) |
+| 2026-11-8 | 封谟璨 | SecDV_A_Lightweight_Secure_Deep_Neural_Network_Inference_Ser | [查看论文](papers/2026-10-25/SecDV_A_Lightweight_Secure_Deep_Neural_Network_Inference_Ser.pdf) |
 
 ## 论文目录
 
