@@ -6,6 +6,7 @@
 
 | 日期 | 主讲人 | 论文名称 | 论文 |
 | --- | --- | --- | --- |
+| 2026-11-15 | 吴艺健| Privacy-Preserving Similarity Queries for Outsourced Trajectory Data | [查看论文](https://github.com/Will230102/weekly-paper-reading/blob/main/papers/2026-11-15/%E8%BD%A8%E8%BF%B9%E7%9B%B8%E4%BC%BC%E5%BA%A6-%E6%9C%89%E4%BB%A3%E7%A0%81Privacy-Preserving_Similarity_Queries_for_Outsourced_Trajectory_Data.pdf) |
 | 2026-11-15 | 谭婷蓉 | A More Secure and Efficient Privacy-preserving Collaborative Filtering System | [查看论文](papers/2026-11-15/A%20More%20Secure%20and%20Efficient%20Privacy-preserving%20Collaborative%20Filtering%20System.pdf) |
 | 2026-11-8 | 陈骞 | CryptDNN_A_Fast_Privacy-Preserving_Deep_Neural_N | [查看论文](<papers/2026-11-08/CryptDNN_A_Fast_Privacy-Preserving_Deep_Neural_N.pdf>) |
 | 2026-11-8 | 封谟璨 | SecDV_A_Lightweight_Secure_Deep_Neural_Network_Inference_Ser | [查看论文](<papers/2026-11-08/SecDV_A_Lightweight_Secure_Deep_Neural_Network_Inference_Ser.pdf>) |
@@ -25,4 +26,5 @@ papers/
 │   ├── CryptDNN_A_Fast_Privacy-Preserving_Deep_Neural_N.pdf
 │   └── SecDV_A_Lightweight_Secure_Deep_Neural_Network_Inference_Ser.pdf
 ├── 2026-11-15/
+│   └── Privacy-Preserving_Similarity_Queries_for_Outsourced_Trajectory_Data.pdf
 │   └── A More Secure and Efficient Privacy-preserving Collaborative Filtering System.pdf
