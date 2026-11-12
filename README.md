@@ -26,5 +26,5 @@ papers/
 │   ├── CryptDNN_A_Fast_Privacy-Preserving_Deep_Neural_N.pdf
 │   └── SecDV_A_Lightweight_Secure_Deep_Neural_Network_Inference_Ser.pdf
 ├── 2026-11-15/
-│   └── Privacy-Preserving_Similarity_Queries_for_Outsourced_Trajectory_Data.pdf
+│   ├── Privacy-Preserving_Similarity_Queries_for_Outsourced_Trajectory_Data.pdf
 │   └── A More Secure and Efficient Privacy-preserving Collaborative Filtering System.pdf
